@@ -11,8 +11,8 @@ Clone this repository:
 bash
 Copy
 Edit
-git clone https://github.com/your-username/emotion-music-player.git
-cd emotion-music-player
+git clone https://github.com/Naveensreddyk/Emotion_Based_Music_Player.git
+cd Emotion_Based_Music_Player
 Install dependencies:
 
 bash
