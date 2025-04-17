@@ -34,12 +34,6 @@ opencv-python-headless: Used for facial recognition 👀
 
 Django: Backend framework for smooth integration 🖥️
 
-gunicorn: For hosting the app on Heroku ⚙️
-
-🌍 Deployed App:
-Experience the magic right now! The web app is already deployed on Heroku:
-
-Live Demo - Emotion-Based Music Player 🎧
 
 💡 How It Works:
 Using a Haar Cascade face detection model 🧑‍💻, combined with a CNN classifier trained on TensorFlow 📊, the app detects four key emotions—Angry, Happy, Calm, and Sad—from your facial expression. The app then dynamically changes the music playlist and background according to your mood! 🎶
